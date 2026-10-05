@@ -1,0 +1,22 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R package/build files
+.Rcheck/
+*.Rcheck/
+.Rd2pdf/
+*.tar.gz
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~

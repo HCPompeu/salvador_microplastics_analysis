@@ -1,106 +1,130 @@
 # License and Usage Terms
 Copyright (c) 2026 Helora Pompeu
 
-All rights reserved except for the permissions expressly granted in this license.
+All rights reserved except for the permissions expressly granted below.
 
-## About this repository
-This repository contains the R code, documentation, and supporting materials developed for the statistical analysis associated with the scientific study:
+## 1. Scope
+This license applies to the original code, scripts, documentation, statistical analyses, research data, and other original materials created by Helora Pompeu for the project **Salvador Microplastics Analysis**, associated with the study:
 
-**Occurrence and Morphological Characterization of Putative Microplastic Particles in Marine Organisms from the Coastal Region of Salvador, Bahia, Brazil**
+*Occurrence and Morphological Characterization of Putative Microplastic Particles in Marine Organisms from the Coastal Region of Salvador, Bahia, Brazil.*
 
-The repository is intended to support academic and scientific use, transparency of the analytical workflow, and reproducibility of the analyses associated with the study.
+It applies to these project materials when distributed through the original project repository or included in the portfolio repository HC Pompeu — Computational Portfolio.
 
-## What this license covers
-This license applies to the original code, scripts, documentation, and other materials created by Helora Pompeu and included in this repository.
+The project materials remain subject to this license regardless of which of these repositories contains them. The presence of the project materials in the portfolio does not extend this license to unrelated portfolio projects or materials governed by a separate license.
 
-It does not automatically apply to materials that belong to other authors, institutions, or third parties.
+## 2. Permitted Use
+The materials covered by this license may be used, copied, reproduced, studied, executed, modified, adapted, and incorporated into derivative works, provided that all of the following conditions are met:
 
-In particular, research data, scientific publications, images, software, R packages, external documentation, and other materials originating from third parties remain subject to their own ownership, licenses, copyright, terms of use, and attribution requirements.
+- The use is exclusively for educational, academic, scientific, research, or scholarly purposes.
+- The use is non-commercial, as defined in Section 5.
+- Appropriate attribution is provided in accordance with Section 3.
+- The project and the specific materials used are identified whenever reasonably applicable.
+- Substantial modifications, adaptations, and derivative works are clearly identified.
+- The use does not falsely imply original authorship by another person or endorsement by Helora Pompeu.
 
-## What you may do
-The original materials covered by this license may be used, copied, studied, executed, modified, adapted, and incorporated into other academic or scientific work when all of the following conditions are respected:
+These permissions do not transfer ownership of the original materials to the user.
 
-* the use is educational, academic, scientific, research-related, or scholarly;
-* the use is non-commercial;
-* appropriate credit is given to Helora Pompeu;
-* the original repository and, when relevant, the specific script or material used are identified;
-* substantial modifications are clearly identified; and
-* the original work is not presented as having been created by someone else.
+## 3. Attribution
+Any use, reproduction, modification, adaptation, redistribution, or incorporation of the covered materials into another work must include appropriate attribution to the original author.
 
-This permission is intended to allow other researchers, students, and developers to study and build upon the analytical workflow while preserving the authorship and provenance of the original work.
+Attribution must identify, as applicable:
 
-## Attribution
-When material covered by this license is reused, modified, or incorporated into another work, the original author must be appropriately acknowledged.
+- **Author:** Helora Pompeu.
+- **Project:** Salvador Microplastics Analysis.
+- **Study:** *Occurrence and Morphological Characterization of Putative Microplastic Particles in Marine Organisms from the Coastal Region of Salvador, Bahia, Brazil.*
+- **Original repository:**  [\[repository URL\]](https://github.com/HCPompeu/salvador_microplastics_analysis)
+- **Specific material used:** the relevant script, file, analysis, dataset, or other project material.
 
-Where reasonably applicable, attribution should identify:
+When the materials are modified, substantial changes must be clearly indicated. Attribution must not imply that Helora Pompeu authored modifications made by others or endorses the resulting work.
 
-**Author:** Helora Cordeiro Pompeu
-**Project:** Salvador Microplastics Analysis
-**Study:** *Occurrence and Morphological Characterization of Putative Microplastic Particles in Marine Organisms from the Coastal Region of Salvador, Bahia, Brazil*
-**Repository:** [\[repository URL\]](https://github.com/HCPompeu/salvador_microplastics_analysis)
+When the materials are used in academic or scientific publications, applicable citation standards and any additional attribution requirements must also be followed.
 
-When the code or analytical workflow is used in an academic or scientific publication, the associated study should also be cited according to the citation requirements of the relevant journal, institution, or other applicable standard.
+## 4. Modifications and Derivative Works
+The covered materials may be modified, adapted, extended, translated, refactored, or incorporated into derivative works solely for the purposes permitted under Section 2.
 
-## Modifying the code
-The code may be modified or extended for the purposes permitted by this license.
+Modified versions and derivative works containing or derived from the covered materials must:
 
-Modified versions must retain the original copyright notice and reference to this license. They must also clearly indicate that changes have been made and must not suggest that the modified work was originally produced by Helora Pompeu.
+- Retain the applicable original copyright notice.
+- Include or reference this license.
+- Preserve appropriate attribution to Helora Pompeu.
+- Clearly identify substantial modifications and contributions made by others.
+- Not falsely claim original authorship of the materials created by Helora Pompeu.
 
-Modification of the code does not transfer authorship or ownership of the original material.
+Permission to modify the materials does not transfer ownership or authorship of the original materials.
 
-## Use of research data
-The presence of research data in this repository does not mean that the data are freely available for unrestricted reuse.
+These conditions apply to the covered materials and their derivatives to the extent permitted by applicable law. They do not automatically extend to independent materials merely because those materials are used alongside the project materials.
 
-Data associated with the study may involve the rights and responsibilities of co-authors, research institutions, funding bodies, publishers, or other parties. Their use must therefore remain consistent with applicable scientific, ethical, institutional, legal, and publication requirements.
-
-Anyone reusing research data from this repository is responsible for providing appropriate attribution to the original study and for determining whether additional permission is required before redistribution or reuse.
-
-## Non-commercial use
-The materials covered by this license may not be used for commercial purposes without prior written permission from Helora Pompeu.
+## 5. Non-Commercial Use
+The covered materials may not be used for commercial purposes without prior written permission from Helora Pompeu.
 
 Commercial use includes, but is not limited to:
 
-* selling the original or modified materials;
-* incorporating them into a commercial product or service;
-* using them as part of paid consulting or other commercial services;
-* licensing them for commercial use; or
-* using them to provide a commercial service to third parties.
+- Selling the covered materials or modified versions of them.
+- Incorporating the materials into a commercial product or service.
+- Using the materials to provide paid services or consulting for commercial purposes.
+- Commercially licensing the materials or derivative works.
+- Exploiting the materials primarily for commercial advantage or monetary compensation.
 
-The receipt of funding, grants, sponsorship, or institutional support by an academic or research organization does not, by itself, make otherwise permitted academic or scientific use commercial.
+Academic or scientific research supported by grants, institutional funding, sponsorships, or other research funding is not, by itself, considered commercial use, provided that the use remains within the purposes permitted under this license and the materials are not otherwise commercially exploited.
 
-## Academic and scientific integrity
-This license does not authorize plagiarism, misrepresentation of authorship, or submission of the original or modified materials as another person's original academic or scientific work.
+Uses outside the permissions expressly granted by this license require prior written authorization from Helora Pompeu.
 
-Users remain responsible for following the citation, authorship, academic integrity, and research requirements applicable to their institution or publication.
+## 6. Research Data
+Research data included in the project and created or collected by Helora Pompeu are covered by this license to the extent that she holds the necessary rights to grant the permissions described herein.
 
-## Third-party materials
-Materials originating from third parties are outside the scope of this license.
+The data may be accessed, studied, analyzed, reproduced, modified, and reused for the purposes permitted under Section 2, subject to the conditions established by this license.
 
-Users are responsible for identifying and complying with any applicable requirements associated with such materials, including copyright, licensing, attribution, terms of use, and restrictions on redistribution.
+Users must preserve appropriate attribution to the author and identify substantial modifications to the data or derived datasets.
 
-The use of software, programming languages, packages, libraries, or external resources in this project does not transfer ownership of those materials to the author.
+Use of the data must comply with applicable legal and ethical requirements concerning research, data protection, confidentiality, and responsible scientific conduct.
 
-## Redistribution and relicensing
-The materials covered by this license may not be sold, sublicensed, or relicensed under terms that remove or contradict the restrictions and attribution requirements established here.
+This section does not transfer ownership of the data or grant permissions beyond the rights held by the author.
 
-Any redistributed modified version must preserve the applicable attribution and licensing information.
+## 7. Academic and Scientific Integrity
+Users must comply with applicable standards of academic and scientific integrity when using the covered materials.
 
-## Author's identity and endorsement
-This license does not grant permission to use Helora Pompeu's name, professional credentials, institutional affiliations, logos, or other identifying materials in a way that suggests endorsement, authorship, affiliation, or participation that does not exist.
+The materials must not be used to misrepresent research methods, results, authorship, provenance, or the contributions of others.
 
-## No warranty
-The materials are provided **“as is”** for educational, academic, scientific, and research purposes.
+Users remain responsible for validating their analyses, interpreting results appropriately, and ensuring that their own research meets applicable scientific and ethical standards.
 
-No warranty is provided regarding the accuracy, completeness, reliability, suitability, or fitness of the materials for a particular purpose.
+Use of the materials does not constitute endorsement by Helora Pompeu of any research, publication, interpretation, or conclusion produced by another person.
 
-The author does not guarantee that the code or other covered materials are free from errors or suitable for any particular scientific, computational, educational, or research application.
+## 8. Redistribution and Relicensing
+Redistribution of the covered materials is permitted only for the purposes and under the conditions established by this license.
 
-## Limitation of liability
-To the maximum extent permitted by applicable law, Helora Pompeu shall not be liable for any direct, indirect, incidental, special, consequential, or other damages resulting from or related to the use, modification, reproduction, or inability to use the materials covered by this license.
+Any redistribution must retain the applicable copyright notice, include or reference this license, and preserve the required attribution.
 
-## Additional permission
-Any use that is not expressly permitted by this license requires prior written permission from Helora Pompeu.
+The covered materials may not be relicensed, sublicensed, sold, or redistributed under terms that remove or contradict the restrictions and attribution requirements of this license, except with prior written permission from Helora Pompeu.
 
-Requests for additional permission should describe the material to be used, the intended purpose, whether the proposed use is commercial or non-commercial, how attribution will be provided, and whether the material will be modified or redistributed.
+Modified versions remain subject to the applicable conditions of this license insofar as they contain or are derived from the covered materials and to the extent permitted by applicable law.
 
-Copyright (c) 2026 Helora Pompeu
+## 9. Author Identity and Endorsement
+Use of the covered materials does not grant permission to use the author's name, identity, or professional affiliation in a way that falsely implies endorsement, sponsorship, collaboration, or official approval.
+
+Any reference to Helora Pompeu must accurately represent the nature of the relationship, if any, between the author and the resulting work.
+
+## 10. No Warranty
+The covered materials are provided "as is", without warranties of any kind, express or implied, to the extent permitted by applicable law.
+
+No guarantee is made regarding the accuracy, completeness, reliability, suitability, or fitness of the materials for a particular purpose.
+
+Users are responsible for evaluating the materials and verifying their suitability for their intended use.
+
+## 11. Limitation of Liability
+To the extent permitted by applicable law, Helora Pompeu shall not be liable for claims, damages, losses, or other liabilities arising from the use of, inability to use, modification of, or redistribution of the covered materials.
+
+Nothing in this section excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 12. Termination of Permission
+The permissions granted under this license terminate automatically if a user fails to comply with its applicable conditions.
+
+Upon termination, the user must cease the unauthorized use and redistribution of the covered materials.
+
+Termination does not eliminate obligations or liabilities arising from prior violations, nor does it affect rights or permissions independently granted under other applicable terms.
+
+## 13. Additional Permission
+Uses outside the scope of this license, including commercial uses, may be authorized through a separate written agreement with Helora Pompeu.
+
+Any additional permission applies only to the scope expressly established in that agreement.
+
+Copyright (c) 2026 Helora Pompeu. All rights reserved except for the permissions expressly granted in this license.
